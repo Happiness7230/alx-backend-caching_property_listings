@@ -4,7 +4,7 @@ psycopg2-binary==2.9.10
 sqlparse==0.5.3
 pytz==2025.2
 
-# Caching
+# Caching must be done 
 django-redis==5.4.0
 redis==6.1.1
 
